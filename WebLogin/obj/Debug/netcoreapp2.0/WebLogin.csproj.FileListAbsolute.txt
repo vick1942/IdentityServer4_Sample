@@ -1,0 +1,12 @@
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\bin\Debug\netcoreapp2.0\WebLogin.deps.json
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\bin\Debug\netcoreapp2.0\WebLogin.runtimeconfig.json
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\bin\Debug\netcoreapp2.0\WebLogin.runtimeconfig.dev.json
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\bin\Debug\netcoreapp2.0\WebLogin.dll
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\bin\Debug\netcoreapp2.0\WebLogin.pdb
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.csproj.CoreCompileInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.AssemblyInfoInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.AssemblyInfo.cs
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.dll
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.pdb
+D:\KBA\Identity Server Project\IdentityApp\WebLogin\obj\Debug\netcoreapp2.0\WebLogin.csprojAssemblyReference.cache

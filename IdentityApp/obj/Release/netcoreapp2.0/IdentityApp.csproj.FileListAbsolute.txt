@@ -1,0 +1,11 @@
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\bin\Release\netcoreapp2.0\IdentityApp.deps.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\bin\Release\netcoreapp2.0\IdentityApp.runtimeconfig.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\bin\Release\netcoreapp2.0\IdentityApp.runtimeconfig.dev.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\bin\Release\netcoreapp2.0\IdentityApp.dll
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\bin\Release\netcoreapp2.0\IdentityApp.pdb
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.csprojAssemblyReference.cache
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.csproj.CoreCompileInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.AssemblyInfoInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.AssemblyInfo.cs
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.dll
+D:\KBA\Identity Server Project\IdentityApp\IdentityApp\obj\Release\netcoreapp2.0\IdentityApp.pdb

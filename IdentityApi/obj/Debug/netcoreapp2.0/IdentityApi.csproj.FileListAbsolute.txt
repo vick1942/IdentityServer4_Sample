@@ -1,0 +1,11 @@
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.deps.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.runtimeconfig.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.runtimeconfig.dev.json
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.dll
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\bin\Debug\netcoreapp2.0\IdentityApi.pdb
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.csproj.CoreCompileInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.AssemblyInfoInputs.cache
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.AssemblyInfo.cs
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.dll
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.pdb
+D:\KBA\Identity Server Project\IdentityApp\IdentityApi\obj\Debug\netcoreapp2.0\IdentityApi.csprojAssemblyReference.cache
